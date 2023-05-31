@@ -1,0 +1,24 @@
+{
+    "usuarios": [
+      {
+        "nombre": "John Doe",
+        "email": "johndoe@example.com"
+      },
+      {
+        "nombre": "Jane Smith",
+        "email": "janesmith@example.com"
+      },
+      {
+        "nombre": "Alex Johnson",
+        "email": "alexjohnson@example.com"
+      },
+      {
+        "nombre": "Emily Davis",
+        "email": "emilydavis@example.com"
+      },
+      {
+        "nombre": "Michael Brown",
+        "email": "michaelbrown@example.com"
+      }
+    ]
+  }
